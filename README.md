@@ -8,6 +8,7 @@
 #### After pull files from repositiory, run following command :
 - npm i
 - npm run start
+
 After "npm run start" executed, your default browser will open "http://localhost:3000". 
 
 # How to use app

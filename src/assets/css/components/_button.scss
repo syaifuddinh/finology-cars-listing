@@ -1,0 +1,24 @@
+@use "sass:color";
+
+.button {
+    padding: 8px 12px;
+    font-weight: bold;
+    border: 0px solid transparent;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.button.primary {
+    color: white;
+    background: #0984e3;
+}
+
+.button.primary:not(.disabled):hover {
+    background: color.adjust(#0984e3, $lightness: -5%);
+}
+
+body .button.disabled {
+    color: white;
+    background: #636e72;
+    cursor: not-allowed;
+}

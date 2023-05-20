@@ -1,0 +1,37 @@
+[
+    {
+        "id": "Turbo",
+        "name": "Turbo",
+        "carType" : "electrical"
+    },
+    {
+        "id": "External Battery",
+        "name": "External Battery",
+        "carType" : "electrical"
+    },
+    {
+        "id": "Bass Speaker",
+        "name": "Bass Speaker",
+        "carType" : "2-wheel"
+    },
+    {
+        "id": "Dispenser",
+        "name": "Dispenser",
+        "carType" : "2-wheel"
+    },
+    {
+        "id": "Front Camera",
+        "name": "Front Camera",
+        "carType" : "2-wheel"
+    },
+    {
+        "id": "Luxury Dashboard",
+        "name": "Luxury Dashboard",
+        "carType" : "sport"
+    },
+    {
+        "id": "Speed Accelerator",
+        "name": "Speed Accelerator",
+        "carType" : "sport"
+    }
+]

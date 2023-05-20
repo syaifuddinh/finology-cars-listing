@@ -1,0 +1,14 @@
+[
+    {
+        "id": "electrical",
+        "name": "Electrical"
+    },
+    {
+        "id": "2-wheel",
+        "name": "2 Wheel"
+    },
+    {
+        "id": "sport",
+        "name": "Sport"
+    }
+]

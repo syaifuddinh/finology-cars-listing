@@ -1,7 +1,7 @@
 
 # Requirement
-- Node JS : 14.17.3
-- NPM : 7.0.15
+- Node JS : > 14.17.3
+- NPM : > 7.0.15
 
 # How to install
 
